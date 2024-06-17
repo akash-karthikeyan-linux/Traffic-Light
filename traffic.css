@@ -1,0 +1,41 @@
+.bg-container
+{
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.light-heading
+{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.sign-button
+{
+    border-radius: 13px;
+    border-width: 0px;
+    background-color: #1f1d41;
+    color: white;
+    margin-bottom: 45px;
+    height: 45px;
+    width: 97px;
+}
+
+.light-post
+{
+    background-color: #1f1d41;
+    height: 40vh;
+    width: 100px;
+    border-radius: 35px;
+}
+
+.sign-light
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #4b5069;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 24px;
+}
